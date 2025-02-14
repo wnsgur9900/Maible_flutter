@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+pymupdf
+pypdf
+flask
+pickle
+re
+
+faiss-cpu
+numpy
